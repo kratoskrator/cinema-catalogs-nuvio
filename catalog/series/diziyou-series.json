@@ -1,0 +1,421 @@
+{
+  "metas": [
+    {
+      "id": "tt35934755",
+      "type": "series",
+      "name": "Below",
+      "poster": "https://image.tmdb.org/t/p/w500/vgLqqhMUbljp585qPp1EFCyJtcz.jpg",
+      "posterShape": "poster",
+      "releaseInfo": "2026",
+      "description": "Listed on DiziYou. Website listing checked 2026-10-17. Playback availability is checked when you select a source.",
+      "links": [
+        {
+          "name": "DiziYou",
+          "category": "website",
+          "url": "https://www.diziyou.one/below/"
+        }
+      ]
+    },
+    {
+      "id": "tt21097264",
+      "type": "series",
+      "name": "East of Eden",
+      "poster": "https://image.tmdb.org/t/p/w500/axdUor6gLMTrrB1UF4Qfy0TTSyX.jpg",
+      "posterShape": "poster",
+      "releaseInfo": "2026",
+      "description": "Listed on DiziYou. Website listing checked 2026-10-17. Playback availability is checked when you select a source.",
+      "links": [
+        {
+          "name": "DiziYou",
+          "category": "website",
+          "url": "https://www.diziyou.one/east-of-eden/"
+        }
+      ]
+    },
+    {
+      "id": "tt23112594",
+      "type": "series",
+      "name": "VisionQuest",
+      "poster": "https://image.tmdb.org/t/p/w500/WGyAyBPncfuu8MZhLY9RtfZPM0.jpg",
+      "posterShape": "poster",
+      "releaseInfo": "2026",
+      "description": "Listed on DiziYou. Website listing checked 2026-10-17. Playback availability is checked when you select a source.",
+      "links": [
+        {
+          "name": "DiziYou",
+          "category": "website",
+          "url": "https://www.diziyou.one/visionquest/"
+        }
+      ]
+    },
+    {
+      "id": "tt36470958",
+      "type": "series",
+      "name": "The Trap",
+      "poster": "https://image.tmdb.org/t/p/w500/dkLTaC44QqnCAgzCf180TxMmmG5.jpg",
+      "posterShape": "poster",
+      "releaseInfo": "2026",
+      "description": "Listed on DiziYou. Website listing checked 2026-10-17. Playback availability is checked when you select a source.",
+      "links": [
+        {
+          "name": "DiziYou",
+          "category": "website",
+          "url": "https://www.diziyou.one/the-trap/"
+        }
+      ]
+    },
+    {
+      "id": "tt37737331",
+      "type": "series",
+      "name": "Take Charge of My Heart",
+      "poster": "https://image.tmdb.org/t/p/w500/ecRrKGXfflZmDZBD4irdkybClT.jpg",
+      "posterShape": "poster",
+      "releaseInfo": "2026",
+      "description": "Listed on DiziYou. Website listing checked 2026-10-17. Playback availability is checked when you select a source.",
+      "links": [
+        {
+          "name": "DiziYou",
+          "category": "website",
+          "url": "https://www.diziyou.one/take-charge-of-my-heart/"
+        }
+      ]
+    },
+    {
+      "id": "tt36064406",
+      "type": "series",
+      "name": "Coven Academy",
+      "poster": "https://image.tmdb.org/t/p/w500/f4R4YGeMQrXEu6jm3oAbSPeGC3M.jpg",
+      "posterShape": "poster",
+      "releaseInfo": "2026",
+      "description": "Listed on DiziYou. Website listing checked 2026-10-17. Playback availability is checked when you select a source.",
+      "links": [
+        {
+          "name": "DiziYou",
+          "category": "website",
+          "url": "https://www.diziyou.one/coven-academy/"
+        }
+      ]
+    },
+    {
+      "id": "tt23148340",
+      "type": "series",
+      "name": "Crystal Lake",
+      "poster": "https://image.tmdb.org/t/p/w500/sIj9WcA1LkcjGbYjrbfV3pGegbF.jpg",
+      "posterShape": "poster",
+      "releaseInfo": "2026",
+      "description": "Listed on DiziYou. Website listing checked 2026-10-17. Playback availability is checked when you select a source.",
+      "links": [
+        {
+          "name": "DiziYou",
+          "category": "website",
+          "url": "https://www.diziyou.one/crystal-lake/"
+        }
+      ]
+    },
+    {
+      "id": "tt45382417",
+      "type": "series",
+      "name": "Alıkara",
+      "poster": "https://image.tmdb.org/t/p/w500/ag9EjJJCLwuZQzEm1xbgIXmFMFc.jpg",
+      "posterShape": "poster",
+      "releaseInfo": "2026",
+      "description": "Listed on DiziYou. Website listing checked 2026-10-17. Playback availability is checked when you select a source.",
+      "links": [
+        {
+          "name": "DiziYou",
+          "category": "website",
+          "url": "https://www.diziyou.one/alikara/"
+        }
+      ]
+    },
+    {
+      "id": "tt13210838",
+      "type": "series",
+      "name": "The Gentlemen",
+      "poster": "https://image.tmdb.org/t/p/w500/tw3tzfXaSpmUZIB8ZNqNEGzMBCy.jpg",
+      "posterShape": "poster",
+      "releaseInfo": "2024",
+      "description": "Listed on DiziYou. Website listing checked 2026-10-17. Playback availability is checked when you select a source.",
+      "links": [
+        {
+          "name": "DiziYou",
+          "category": "website",
+          "url": "https://www.diziyou.one/the-gentlemen/"
+        }
+      ]
+    },
+    {
+      "id": "tt33253070",
+      "type": "series",
+      "name": "M.I.A.",
+      "poster": "https://image.tmdb.org/t/p/w500/uvocuo6mgQTtNa7O6a3MQoTfuh4.jpg",
+      "posterShape": "poster",
+      "releaseInfo": "2026",
+      "description": "Listed on DiziYou. Website listing checked 2026-10-17. Playback availability is checked when you select a source.",
+      "links": [
+        {
+          "name": "DiziYou",
+          "category": "website",
+          "url": "https://www.diziyou.one/m-i-a/"
+        }
+      ]
+    },
+    {
+      "id": "tt35051210",
+      "type": "series",
+      "name": "TYSON",
+      "poster": "https://image.tmdb.org/t/p/w500/mdtpJEWW1j5Ns7bIcbw1UeIdvhp.jpg",
+      "posterShape": "poster",
+      "releaseInfo": "2026",
+      "description": "Listed on DiziYou. Website listing checked 2026-10-17. Playback availability is checked when you select a source.",
+      "links": [
+        {
+          "name": "DiziYou",
+          "category": "website",
+          "url": "https://www.diziyou.one/tyson/"
+        }
+      ]
+    },
+    {
+      "id": "tt40197357",
+      "type": "series",
+      "name": "Scrubs",
+      "poster": "https://image.tmdb.org/t/p/w500/l1EzNg0WMaoAu7oPa2oMXLizc4W.jpg",
+      "posterShape": "poster",
+      "releaseInfo": "2026",
+      "description": "Listed on DiziYou. Website listing checked 2026-10-17. Playback availability is checked when you select a source.",
+      "links": [
+        {
+          "name": "DiziYou",
+          "category": "website",
+          "url": "https://www.diziyou.one/scrubs/"
+        }
+      ]
+    },
+    {
+      "id": "tt33539520",
+      "type": "series",
+      "name": "Neagley",
+      "poster": "https://image.tmdb.org/t/p/w500/lKOPmO0ah17ogQ9hWg7lSd40kIr.jpg",
+      "posterShape": "poster",
+      "releaseInfo": "2026",
+      "description": "Listed on DiziYou. Website listing checked 2026-10-17. Playback availability is checked when you select a source.",
+      "links": [
+        {
+          "name": "DiziYou",
+          "category": "website",
+          "url": "https://www.diziyou.one/neagley/"
+        }
+      ]
+    },
+    {
+      "id": "tt35726020",
+      "type": "series",
+      "name": "KILL JACKIE",
+      "poster": "https://image.tmdb.org/t/p/w500/3tjZspkqquE24iK1rc0nvnJwdEZ.jpg",
+      "posterShape": "poster",
+      "releaseInfo": "2026",
+      "description": "Listed on DiziYou. Website listing checked 2026-10-17. Playback availability is checked when you select a source.",
+      "links": [
+        {
+          "name": "DiziYou",
+          "category": "website",
+          "url": "https://www.diziyou.one/kill-jackie/"
+        }
+      ]
+    },
+    {
+      "id": "tt36743307",
+      "type": "series",
+      "name": "Inside the Circle",
+      "poster": "https://image.tmdb.org/t/p/w500/3JpnP8fYVb9B9FuvdGT4ZkRRYZJ.jpg",
+      "posterShape": "poster",
+      "releaseInfo": "2026",
+      "description": "Listed on DiziYou. Website listing checked 2026-10-17. Playback availability is checked when you select a source.",
+      "links": [
+        {
+          "name": "DiziYou",
+          "category": "website",
+          "url": "https://www.diziyou.one/inside-the-circle/"
+        }
+      ]
+    },
+    {
+      "id": "tt39201866",
+      "type": "series",
+      "name": "100 Days of Deception",
+      "poster": "https://image.tmdb.org/t/p/w500/bZHEU42QynnMrHUWK1Hhvj2cdPA.jpg",
+      "posterShape": "poster",
+      "releaseInfo": "2026",
+      "description": "Listed on DiziYou. Website listing checked 2026-10-17. Playback availability is checked when you select a source.",
+      "links": [
+        {
+          "name": "DiziYou",
+          "category": "website",
+          "url": "https://www.diziyou.one/100-days-of-deception/"
+        }
+      ]
+    },
+    {
+      "id": "tt26545992",
+      "type": "series",
+      "name": "Lanterns",
+      "poster": "https://image.tmdb.org/t/p/w500/gpC7h43xPMEV3goYMQShfJbTtLq.jpg",
+      "posterShape": "poster",
+      "releaseInfo": "2026",
+      "description": "Listed on DiziYou. Website listing checked 2026-10-17. Playback availability is checked when you select a source.",
+      "links": [
+        {
+          "name": "DiziYou",
+          "category": "website",
+          "url": "https://www.diziyou.one/lanterns/"
+        }
+      ]
+    },
+    {
+      "id": "tt38504111",
+      "type": "series",
+      "name": "Small Prophets",
+      "poster": "https://image.tmdb.org/t/p/w500/39pC4gr8GTD7dDcuoGLbbyZSyTk.jpg",
+      "posterShape": "poster",
+      "releaseInfo": "2026",
+      "description": "Listed on DiziYou. Website listing checked 2026-10-17. Playback availability is checked when you select a source.",
+      "links": [
+        {
+          "name": "DiziYou",
+          "category": "website",
+          "url": "https://www.diziyou.one/small-prophets/"
+        }
+      ]
+    },
+    {
+      "id": "tt39328047",
+      "type": "series",
+      "name": "Doctor X: Mafia in White",
+      "poster": "https://image.tmdb.org/t/p/w500/a5kWnqgoTOWrv2xZoruQgTSbGgA.jpg",
+      "posterShape": "poster",
+      "releaseInfo": "2026",
+      "description": "Listed on DiziYou. Website listing checked 2026-10-17. Playback availability is checked when you select a source.",
+      "links": [
+        {
+          "name": "DiziYou",
+          "category": "website",
+          "url": "https://www.diziyou.one/doctor-x-mafia-in-white/"
+        }
+      ]
+    },
+    {
+      "id": "tt11540908",
+      "type": "series",
+      "name": "Carrie",
+      "poster": "https://image.tmdb.org/t/p/w500/eXjk4W4robXs7l1YXwaXMv4f2qb.jpg",
+      "posterShape": "poster",
+      "releaseInfo": "2026",
+      "description": "Listed on DiziYou. Website listing checked 2026-10-17. Playback availability is checked when you select a source.",
+      "links": [
+        {
+          "name": "DiziYou",
+          "category": "website",
+          "url": "https://www.diziyou.one/carrie/"
+        }
+      ]
+    },
+    {
+      "id": "tt32639706",
+      "type": "series",
+      "name": "Blue Box",
+      "poster": "https://image.tmdb.org/t/p/w500/sN3TuYevEPWxZhwcp6I2PJRW1jl.jpg",
+      "posterShape": "poster",
+      "releaseInfo": "2024",
+      "description": "Listed on DiziYou. Website listing checked 2026-10-17. Playback availability is checked when you select a source.",
+      "links": [
+        {
+          "name": "DiziYou",
+          "category": "website",
+          "url": "https://www.diziyou.one/blue-box/"
+        }
+      ]
+    },
+    {
+      "id": "tt18332852",
+      "type": "series",
+      "name": "Outlander: Blood of My Blood",
+      "poster": "https://image.tmdb.org/t/p/w500/tO67V8FhUlGghwttkPkEdUYpCWI.jpg",
+      "posterShape": "poster",
+      "releaseInfo": "2025",
+      "description": "Listed on DiziYou. Website listing checked 2026-10-17. Playback availability is checked when you select a source.",
+      "links": [
+        {
+          "name": "DiziYou",
+          "category": "website",
+          "url": "https://www.diziyou.one/outlander-blood-of-my-blood/"
+        }
+      ]
+    },
+    {
+      "id": "tt20883126",
+      "type": "series",
+      "name": "Red Queen",
+      "poster": "https://image.tmdb.org/t/p/w500/lk7LVXYSOO5rReR2jzLo8Le3cO1.jpg",
+      "posterShape": "poster",
+      "releaseInfo": "2024",
+      "description": "Listed on DiziYou. Website listing checked 2026-10-17. Playback availability is checked when you select a source.",
+      "links": [
+        {
+          "name": "DiziYou",
+          "category": "website",
+          "url": "https://www.diziyou.one/red-queen/"
+        }
+      ]
+    },
+    {
+      "id": "tt26591147",
+      "type": "series",
+      "name": "Matlock",
+      "poster": "https://image.tmdb.org/t/p/w500/a9zyLphBfL6N9pDwFVzL5a9fqpH.jpg",
+      "posterShape": "poster",
+      "releaseInfo": "2024",
+      "description": "Listed on DiziYou. Website listing checked 2026-10-17. Playback availability is checked when you select a source.",
+      "links": [
+        {
+          "name": "DiziYou",
+          "category": "website",
+          "url": "https://www.diziyou.one/matlock/"
+        }
+      ]
+    },
+    {
+      "id": "tt0452046",
+      "type": "series",
+      "name": "Criminal Minds",
+      "poster": "https://image.tmdb.org/t/p/w500/hWSb4UnIjlTvnvrP98NbFSO60HA.jpg",
+      "posterShape": "poster",
+      "releaseInfo": "2005",
+      "description": "Listed on DiziYou. Website listing checked 2026-10-17. Playback availability is checked when you select a source.",
+      "links": [
+        {
+          "name": "DiziYou",
+          "category": "website",
+          "url": "https://www.diziyou.one/criminal-minds/"
+        }
+      ]
+    },
+    {
+      "id": "tt7134908",
+      "type": "series",
+      "name": "Elite",
+      "poster": "https://image.tmdb.org/t/p/w500/hMNi01KTkQ13kc6dNLX04Jvm4m7.jpg",
+      "posterShape": "poster",
+      "releaseInfo": "2018",
+      "description": "Listed on DiziYou. Website listing checked 2026-10-17. Playback availability is checked when you select a source.",
+      "links": [
+        {
+          "name": "DiziYou",
+          "category": "website",
+          "url": "https://www.diziyou.one/elite/"
+        }
+      ]
+    }
+  ],
+  "cacheMaxAge": 3600
+}
