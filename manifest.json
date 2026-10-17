@@ -1,0 +1,48 @@
+{
+  "id": "org.kratoskrator.cinema.catalogs",
+  "version": "1.0.0",
+  "name": "Cinema Catalogs — Turkish & Russian Sites",
+  "description": "Website-specific browsing rows from Filmix, Seasonvar, DiziBOX and DiziYou. Snapshot 2026-10-17. Keep the official Nuvio catalog for current metadata and search.",
+  "resources": [
+    "catalog"
+  ],
+  "types": [
+    "movie",
+    "series"
+  ],
+  "idPrefixes": [
+    "tt"
+  ],
+  "catalogs": [
+    {
+      "type": "movie",
+      "id": "filmix-movies",
+      "name": "Filmix — Movies"
+    },
+    {
+      "type": "series",
+      "id": "filmix-series",
+      "name": "Filmix — Series"
+    },
+    {
+      "type": "series",
+      "id": "seasonvar-series",
+      "name": "Seasonvar — Series"
+    },
+    {
+      "type": "series",
+      "id": "dizibox-series",
+      "name": "DiziBOX — Series"
+    },
+    {
+      "type": "series",
+      "id": "diziyou-series",
+      "name": "DiziYou — Series"
+    }
+  ],
+  "behaviorHints": {
+    "adult": false,
+    "p2p": false,
+    "configurable": false
+  }
+}
