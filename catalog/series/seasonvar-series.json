@@ -1,0 +1,309 @@
+{
+  "metas": [
+    {
+      "id": "tt14976292",
+      "type": "series",
+      "name": "Агент времени / Разведчик Времени",
+      "poster": "https://image.tmdb.org/t/p/w500/wo9jwu5qMvXzhW2cyy5E6hOVs92.jpg",
+      "posterShape": "poster",
+      "releaseInfo": "2021",
+      "description": "Listed on Seasonvar. Website listing checked 2026-10-17. Original title: Link Click. Playback availability is checked when you select a source.",
+      "links": [
+        {
+          "name": "Seasonvar",
+          "category": "website",
+          "url": "https://seasonvar.ru/serial-44154-Agent_vremeni_psxulzj-3-season.html"
+        }
+      ]
+    },
+    {
+      "id": "tt43590341",
+      "type": "series",
+      "name": "Наш побег от вчерашнего дня / Наш вчерашний побег",
+      "poster": "https://image.tmdb.org/t/p/w500/2owTPEAMFEXW3R0uq7ivCT1NAvT.jpg",
+      "posterShape": "poster",
+      "releaseInfo": "2026",
+      "description": "Listed on Seasonvar. Website listing checked 2026-10-17. Original title: Our Yesterday’s Escape. Playback availability is checked when you select a source.",
+      "links": [
+        {
+          "name": "Seasonvar",
+          "category": "website",
+          "url": "https://seasonvar.ru/serial-50477-Nash_pobeg_ot_vcherashnego_dnya.html"
+        }
+      ]
+    },
+    {
+      "id": "tt43603919",
+      "type": "series",
+      "name": "Сможешь ли ты полюбить меня / Пожалуйста, люби",
+      "poster": "https://image.tmdb.org/t/p/w500/4wCj3cqVJUi2lmNVe05YaPj5ys8.jpg",
+      "posterShape": "poster",
+      "releaseInfo": "2026",
+      "description": "Listed on Seasonvar. Website listing checked 2026-10-17. Original title: Pls.Love. Playback availability is checked when you select a source.",
+      "links": [
+        {
+          "name": "Seasonvar",
+          "category": "website",
+          "url": "https://seasonvar.ru/serial-50364-Smozhesh__li_ty_polyubit__menya.html"
+        }
+      ]
+    },
+    {
+      "id": "tt39053780",
+      "type": "series",
+      "name": "CrunchLabs Марка Робера",
+      "poster": "https://image.tmdb.org/t/p/w500/mMY3TCSdo4bvoQntHEOeoY1JI7K.jpg",
+      "posterShape": "poster",
+      "releaseInfo": "2025",
+      "description": "Listed on Seasonvar. Website listing checked 2026-10-17. Original title: Mark Rober’s CrunchLabs. Playback availability is checked when you select a source.",
+      "links": [
+        {
+          "name": "Seasonvar",
+          "category": "website",
+          "url": "https://seasonvar.ru/serial-50918-CrunchLabs_Marka_Robera-3-season.html"
+        }
+      ]
+    },
+    {
+      "id": "tt11540908",
+      "type": "series",
+      "name": "Кэрри",
+      "poster": "https://image.tmdb.org/t/p/w500/eXjk4W4robXs7l1YXwaXMv4f2qb.jpg",
+      "posterShape": "poster",
+      "releaseInfo": "2026",
+      "description": "Listed on Seasonvar. Website listing checked 2026-10-17. Original title: Carrie. Playback availability is checked when you select a source.",
+      "links": [
+        {
+          "name": "Seasonvar",
+          "category": "website",
+          "url": "https://seasonvar.ru/serial-49803-Kerri.html"
+        }
+      ]
+    },
+    {
+      "id": "tt19231492",
+      "type": "series",
+      "name": "Темная материя (2024)",
+      "poster": "https://image.tmdb.org/t/p/w500/c6MRUtPk0nEPQ9FBD9RdRKt2rIm.jpg",
+      "posterShape": "poster",
+      "releaseInfo": "2024",
+      "description": "Listed on Seasonvar. Website listing checked 2026-10-17. Original title: Dark Matter. Playback availability is checked when you select a source.",
+      "links": [
+        {
+          "name": "Seasonvar",
+          "category": "website",
+          "url": "https://seasonvar.ru/serial-49799-Temnaya_materiya_2024-2-season.html"
+        }
+      ]
+    },
+    {
+      "id": "tt3530232",
+      "type": "series",
+      "name": "События прошедшей недели с Джоном Оливером",
+      "poster": "https://image.tmdb.org/t/p/w500/fuuEjEr69uvRtGaQw70JfvdrUwb.jpg",
+      "posterShape": "poster",
+      "releaseInfo": "2014",
+      "description": "Listed on Seasonvar. Website listing checked 2026-10-17. Original title: Last Week Tonight with John Oliver. Playback availability is checked when you select a source.",
+      "links": [
+        {
+          "name": "Seasonvar",
+          "category": "website",
+          "url": "https://seasonvar.ru/serial-49813-Sobytiya_proshedshej_nedeli_s_Dzhonom_Oliverom-13-season.html"
+        }
+      ]
+    },
+    {
+      "id": "tt13138834",
+      "type": "series",
+      "name": "Срок",
+      "poster": "https://image.tmdb.org/t/p/w500/mhi7oohUBIufTjF9u41uMXYHsw2.jpg",
+      "posterShape": "poster",
+      "releaseInfo": "2021",
+      "description": "Listed on Seasonvar. Website listing checked 2026-10-17. Original title: Time. Playback availability is checked when you select a source.",
+      "links": [
+        {
+          "name": "Seasonvar",
+          "category": "website",
+          "url": "https://seasonvar.ru/serial-50816-Srok-3-season.html"
+        }
+      ]
+    },
+    {
+      "id": "tt10589968",
+      "type": "series",
+      "name": "Проклятие ранчо Скинуокер",
+      "poster": "https://image.tmdb.org/t/p/w500/j8PpovebgIhrt89AQVvkogcX34v.jpg",
+      "posterShape": "poster",
+      "releaseInfo": "2020",
+      "description": "Listed on Seasonvar. Website listing checked 2026-10-17. Original title: The Secret of Skinwalker Ranch. Playback availability is checked when you select a source.",
+      "links": [
+        {
+          "name": "Seasonvar",
+          "category": "website",
+          "url": "https://seasonvar.ru/serial-50267-Proklyatie_rancho_Skinuoker-7-season.html"
+        }
+      ]
+    },
+    {
+      "id": "tt4998212",
+      "type": "series",
+      "name": "Ранчо",
+      "poster": "https://image.tmdb.org/t/p/w500/lrbHBAxF9Ir83rxgeBrfmEJriLt.jpg",
+      "posterShape": "poster",
+      "releaseInfo": "2016",
+      "description": "Listed on Seasonvar. Website listing checked 2026-10-17. Original title: The Ranch. Playback availability is checked when you select a source.",
+      "links": [
+        {
+          "name": "Seasonvar",
+          "category": "website",
+          "url": "https://seasonvar.ru/serial-18938-Rancho_psrkgyx-3-season.html"
+        }
+      ]
+    },
+    {
+      "id": "tt24640568",
+      "type": "series",
+      "name": "Мачеха ( Таиланд)",
+      "poster": "https://image.tmdb.org/t/p/w500/qJ5goCpZV2gWi7KffXJsNnEJDKa.jpg",
+      "posterShape": "poster",
+      "releaseInfo": "2025",
+      "description": "Listed on Seasonvar. Website listing checked 2026-10-17. Original title: Stepmother. Playback availability is checked when you select a source.",
+      "links": [
+        {
+          "name": "Seasonvar",
+          "category": "website",
+          "url": "https://seasonvar.ru/serial-50917-Macheha__Tailand.html"
+        }
+      ]
+    },
+    {
+      "id": "tt42751057",
+      "type": "series",
+      "name": "Кто любит, тот бережет / Кто любит, бережет",
+      "poster": "https://image.tmdb.org/t/p/w500/lzLkCVaN1l0RBYYDClZ983l4ZOz.jpg",
+      "posterShape": "poster",
+      "releaseInfo": "2026",
+      "description": "Listed on Seasonvar. Website listing checked 2026-10-17. Original title: Quem Ama Cuida. Playback availability is checked when you select a source.",
+      "links": [
+        {
+          "name": "Seasonvar",
+          "category": "website",
+          "url": "https://seasonvar.ru/serial-49038-Kto_lyubit_tot_berezht.html"
+        }
+      ]
+    },
+    {
+      "id": "tt5875444",
+      "type": "series",
+      "name": "Медленные лошади / Хромые лошади, Хромые кони",
+      "poster": "https://image.tmdb.org/t/p/w500/dnpatlJrEPiDSn5fzgzvxtiSnMo.jpg",
+      "posterShape": "poster",
+      "releaseInfo": "2022",
+      "description": "Listed on Seasonvar. Website listing checked 2026-10-17. Original title: Slow Horses. Playback availability is checked when you select a source.",
+      "links": [
+        {
+          "name": "Seasonvar",
+          "category": "website",
+          "url": "https://seasonvar.ru/serial-50047-Medlennye_loshadi-6-season.html"
+        }
+      ]
+    },
+    {
+      "id": "tt31510819",
+      "type": "series",
+      "name": "Гангстерленд / Гангстерлэнд",
+      "poster": "https://image.tmdb.org/t/p/w500/fTlH5NNTXOP96mElp0DaIStRVvK.jpg",
+      "posterShape": "poster",
+      "releaseInfo": "2025",
+      "description": "Listed on Seasonvar. Website listing checked 2026-10-17. Original title: MobLand. Playback availability is checked when you select a source.",
+      "links": [
+        {
+          "name": "Seasonvar",
+          "category": "website",
+          "url": "https://seasonvar.ru/serial-49673-Gangsterlend-2-season.html"
+        }
+      ]
+    },
+    {
+      "id": "tt33078239",
+      "type": "series",
+      "name": "Навеки ваши",
+      "poster": "https://image.tmdb.org/t/p/w500/gMKJJtwOnTkhkbdQabyo7OKTosb.jpg",
+      "posterShape": "poster",
+      "releaseInfo": "2026",
+      "description": "Listed on Seasonvar. Website listing checked 2026-10-17. Original title: Eternally Yours. Playback availability is checked when you select a source.",
+      "links": [
+        {
+          "name": "Seasonvar",
+          "category": "website",
+          "url": "https://seasonvar.ru/serial-50243-Naveki_vashi.html"
+        }
+      ]
+    },
+    {
+      "id": "tt33270224",
+      "type": "series",
+      "name": "Купертино",
+      "poster": "https://image.tmdb.org/t/p/w500/70AhJpOqU2oKyQF2paJA764CSje.jpg",
+      "posterShape": "poster",
+      "releaseInfo": "2026",
+      "description": "Listed on Seasonvar. Website listing checked 2026-10-17. Original title: Cupertino. Playback availability is checked when you select a source.",
+      "links": [
+        {
+          "name": "Seasonvar",
+          "category": "website",
+          "url": "https://seasonvar.ru/serial-50538-Kupertino.html"
+        }
+      ]
+    },
+    {
+      "id": "tt2198333",
+      "type": "series",
+      "name": "Американская книга тайн / Книга тайн Америки",
+      "poster": "https://image.tmdb.org/t/p/w500/u4l4CGzNoukLjXgvgnSladOc8Xq.jpg",
+      "posterShape": "poster",
+      "releaseInfo": "2012",
+      "description": "Listed on Seasonvar. Website listing checked 2026-10-17. Original title: America’s Book of Secrets. Playback availability is checked when you select a source.",
+      "links": [
+        {
+          "name": "Seasonvar",
+          "category": "website",
+          "url": "https://seasonvar.ru/serial-18561-Amerikanskaya_kniga_tajn_pswtcsq.html"
+        }
+      ]
+    },
+    {
+      "id": "tt35934755",
+      "type": "series",
+      "name": "Глубина (2026)",
+      "poster": "https://image.tmdb.org/t/p/w500/vgLqqhMUbljp585qPp1EFCyJtcz.jpg",
+      "posterShape": "poster",
+      "releaseInfo": "2026",
+      "description": "Listed on Seasonvar. Website listing checked 2026-10-17. Original title: Below. Playback availability is checked when you select a source.",
+      "links": [
+        {
+          "name": "Seasonvar",
+          "category": "website",
+          "url": "https://seasonvar.ru/serial-50046-Glubina_2026.html"
+        }
+      ]
+    },
+    {
+      "id": "tt6773088",
+      "type": "series",
+      "name": "Братья (2026)",
+      "poster": "https://image.tmdb.org/t/p/w500/jD7ZQpDEZzAVReJzkOtmuFoIl2m.jpg",
+      "posterShape": "poster",
+      "releaseInfo": "2026",
+      "description": "Listed on Seasonvar. Website listing checked 2026-10-17. Original title: Brothers. Playback availability is checked when you select a source.",
+      "links": [
+        {
+          "name": "Seasonvar",
+          "category": "website",
+          "url": "https://seasonvar.ru/serial-50216-Brat_ya_2026.html"
+        }
+      ]
+    }
+  ],
+  "cacheMaxAge": 3600
+}
