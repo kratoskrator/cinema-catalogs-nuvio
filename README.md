@@ -14,14 +14,14 @@ Keep the **official Nuvio catalog enabled**. Open the new rows on Home or choose
 
 The companion supplies IMDb identities and posters. The official catalog supplies current descriptions, episode lists and general search. The existing playback plugins perform their normal IMDb-to-TMDB conversion. The companion declares only the `catalog` resource, so it does not replace your metadata or streaming providers.
 
-## Initial snapshot
+## Snapshot — 26 October 2026
 
-Website listings were checked on **17 October 2026**. The first release includes **93 cards** across five rows:
+Version **1.0.1** includes **102 cards** across five rows. Filmix, DiziBOX and DiziYou listings were checked on **26 October 2026**. Seasonvar currently returns a technical-maintenance page; its **19 previously verified cards from 17 October** are retained with their original dates. Those cards do not imply current Seasonvar playback availability. The outage and retained dates are recorded in `snapshot.json`.
 
 | Row | Cards |
 | --- | ---: |
-| Filmix — Movies | 10 |
-| Filmix — Series | 10 |
+| Filmix — Movies | 14 |
+| Filmix — Series | 15 |
 | Seasonvar — Series | 19 |
 | DiziBOX — Series | 28 |
 | DiziYou — Series | 26 |
@@ -32,7 +32,7 @@ Matches require an exact normalized title, release year and content type, or an 
 
 **Catalog membership does not guarantee playback.** A website can publish a title or episode page before a working stream is available. Some listed works may have restricted audio, quality or geographic access. Playback is checked by the selected provider when you open its source list.
 
-Rezka is excluded: normal TV-style requests returned browser verification and browser site-safety policy blocked reading its catalog. HDFilmCehennemi is excluded because the current homepage request returned an access challenge; yesterday's cached Inception page was not treated as a current catalog listing. No challenge was solved or bypassed.
+Rezka is excluded: normal TV-style requests returned browser verification and browser site-safety policy blocked reading its catalog. HDFilmCehennemi is excluded because its homepage request returned an access challenge; a working individual movie page was not treated as a current catalog listing. No challenge was solved or bypassed.
 
 ## Freshness and search
 
@@ -42,7 +42,7 @@ General title search remains with your official catalog. This companion does not
 
 ## Validation
 
-All **14 automated tests pass**. The build checks canonical IDs, content types, years, safe source/image URLs, website host provenance, duplicate identities, row routes and terminal pages. Collector tests cover exact matching, first-season years, source order and challenge blocking. Independent checks using current official Nuvio code loaded all five rows and their terminal pages, confirmed Home eligibility, opened actual official metadata for the first card in each row, and preserved exact episode selection through playback-plugin dispatch.
+All **15 automated tests pass**. The build checks canonical IDs, content types, years, safe source/image URLs, website host provenance, duplicate identities, row routes, terminal pages, release version and preserved maintenance-row dates. Collector tests cover exact matching, first-season years, source order and challenge blocking. Independent checks using current official Nuvio code loaded all five rows and their terminal pages, confirmed Home eligibility, opened actual official metadata for the first card in each row, and preserved exact episode selection through playback-plugin dispatch.
 
 Live extraction and metadata checks used ordinary public requests without account credentials or video downloads. The collectors were also replayed against captured real responses. Physical display and playback on a Samsung TV remain unverified.
 
@@ -68,6 +68,6 @@ npm test
 
 Review the generated counts and exclusions before publishing. The collectors are deliberately bounded and stop a source when verification or access restrictions appear. They do not use accounts, execute site scripts, solve challenges, disable certificate validation or request video files.
 
-Publish `manifest.json`, `catalog/`, `snapshot.json`, this README, the license/notices and the source archive together. When row counts change, replace the old generated `catalog/` tree so obsolete terminal routes do not remain. Keep raw HTML captures, metadata caches, local logs and scratch files out of the public repository.
+Publish `manifest.json`, `catalog/`, `snapshot.json`, this README, the license/notices and the source archive together. Publish new empty terminal routes before the updated rows; older empty terminal routes can remain for clients with cached older row counts. Keep raw HTML captures, metadata caches, local logs and scratch files out of the public repository. If a source is unavailable, preserve its original checked dates and explicitly record any retained listings rather than presenting them as freshly verified.
 
 MIT licensed. See [THIRD_PARTY_NOTICES.md](./THIRD_PARTY_NOTICES.md). The add-on is independent of Nuvio and the listed websites.

@@ -1,8 +1,8 @@
 {
   "id": "org.kratoskrator.cinema.catalogs",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "name": "Cinema Catalogs — Turkish & Russian Sites",
-  "description": "Website-specific browsing rows from Filmix, Seasonvar, DiziBOX and DiziYou. Snapshot 2026-10-17. Keep the official Nuvio catalog for current metadata and search.",
+  "description": "Website-specific browsing rows from Filmix, Seasonvar, DiziBOX and DiziYou. Snapshot 2026-10-26. Keep the official Nuvio catalog for current metadata and search.",
   "resources": [
     "catalog"
   ],
