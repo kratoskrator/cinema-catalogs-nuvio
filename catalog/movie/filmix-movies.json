@@ -1,162 +1,226 @@
 {
   "metas": [
     {
-      "id": "tt11043508",
+      "id": "tt34379051",
       "type": "movie",
-      "name": "Ритуал",
-      "poster": "https://image.tmdb.org/t/p/w500/tDC1KDiL7ih6lDTaZBKjOxQOhmo.jpg",
+      "name": "Любой ценой",
+      "poster": "https://image.tmdb.org/t/p/w500/85CvGoeXAcSSWy6So2DRD8ItJAN.jpg",
       "posterShape": "poster",
       "releaseInfo": "2026",
-      "description": "Listed on Filmix. Website listing checked 2026-10-17. Original title: The Observance. Playback availability is checked when you select a source.",
+      "description": "Listed on Filmix. Website listing checked 2026-10-26. Original title: By Any Means. Playback availability is checked when you select a source.",
       "links": [
         {
           "name": "Filmix",
           "category": "website",
-          "url": "https://filmix.fm/film/triller/187516-ritual-2026.html"
+          "url": "https://filmix.fm/film/triller/186704-lyuboy-cenoy-2026.html"
         }
       ]
     },
     {
-      "id": "tt36629665",
+      "id": "tt0115798",
       "type": "movie",
-      "name": "Её личный ад",
-      "poster": "https://image.tmdb.org/t/p/w500/pyIDpB5iZMRB5PdV9an146QEXAl.jpg",
+      "name": "Кабельщик",
+      "poster": "https://image.tmdb.org/t/p/w500/iLmtIWy64uIkxLyi0A0vyzFfn5f.jpg",
       "posterShape": "poster",
-      "releaseInfo": "2026",
-      "description": "Listed on Filmix. Website listing checked 2026-10-17. Original title: Her Private Hell. Playback availability is checked when you select a source.",
+      "releaseInfo": "1996",
+      "description": "Listed on Filmix. Website listing checked 2026-10-26. Original title: The Cable Guy. Playback availability is checked when you select a source.",
       "links": [
         {
           "name": "Filmix",
           "category": "website",
-          "url": "https://filmix.fm/film/drama/185306-ee-lichnyy-ad-2026.html"
+          "url": "https://filmix.fm/film/drama/282-kabelschik-the-cable-guy-1996.html"
         }
       ]
     },
     {
-      "id": "tt29271639",
+      "id": "tt32827454",
       "type": "movie",
-      "name": "Нина Роза",
-      "poster": "https://image.tmdb.org/t/p/w500/46qX7uLcu0XcQajVxizR2RYC45H.jpg",
+      "name": "Маленькие беглецы",
+      "poster": "https://image.tmdb.org/t/p/w500/unJWfg66bFwrGD31nBFoOQfkuba.jpg",
       "posterShape": "poster",
       "releaseInfo": "2026",
-      "description": "Listed on Filmix. Website listing checked 2026-10-17. Original title: Nina Roza. Playback availability is checked when you select a source.",
+      "description": "Listed on Filmix. Website listing checked 2026-10-26. Original title: Tiny Fugitives. Playback availability is checked when you select a source.",
       "links": [
         {
           "name": "Filmix",
           "category": "website",
-          "url": "https://filmix.fm/film/drama/187500-nina-roza-2026.html"
+          "url": "https://filmix.fm/film/komedia/187028-malenkie-beglecy-2026.html"
         }
       ]
     },
     {
-      "id": "tt35183197",
+      "id": "tt37405791",
       "type": "movie",
-      "name": "Мой лучший вариант",
-      "poster": "https://image.tmdb.org/t/p/w500/zA7OqWI3r1ZxxZ0IxB0e6pAVzJs.jpg",
+      "name": "Висящие на тросе",
+      "poster": "https://image.tmdb.org/t/p/w500/duZIrDULyk3PBIxoUmKXm3uqlBv.jpg",
       "posterShape": "poster",
-      "releaseInfo": "2025",
-      "description": "Listed on Filmix. Website listing checked 2026-10-17. Original title: My Best Bet. Playback availability is checked when you select a source.",
+      "releaseInfo": "2026",
+      "description": "Listed on Filmix. Website listing checked 2026-10-26. Original title: Hanging by a Wire. Playback availability is checked when you select a source.",
       "links": [
         {
           "name": "Filmix",
           "category": "website",
-          "url": "https://filmix.fm/film/komedia/187501-moy-luchshiy-variant-2025.html"
+          "url": "https://filmix.fm/film/triller/187673-visyaschie-na-trose-2026.html"
         }
       ]
     },
     {
-      "id": "tt37856736",
+      "id": "tt22526100",
       "type": "movie",
-      "name": "Убиваем как в 99-м",
-      "poster": "https://image.tmdb.org/t/p/w500/zKX4FkJynl73SGBCioffF9vmJy2.jpg",
+      "name": "Гипотеза любви",
+      "poster": "https://image.tmdb.org/t/p/w500/vfZxVHextAGC70zrNhS8lsROqP1.jpg",
       "posterShape": "poster",
       "releaseInfo": "2026",
-      "description": "Listed on Filmix. Website listing checked 2026-10-17. Original title: Let’s Murder Like It’s 1999!. Playback availability is checked when you select a source.",
+      "description": "Listed on Filmix. Website listing checked 2026-10-26. Original title: The Love Hypothesis. Playback availability is checked when you select a source.",
       "links": [
         {
           "name": "Filmix",
           "category": "website",
-          "url": "https://filmix.fm/film/drama/187502-ubivaem-kak-v-99-m-2026.html"
+          "url": "https://filmix.fm/film/melodrama/187085-gipoteza-lyubvi-2026.html"
         }
       ]
     },
     {
-      "id": "tt40602526",
+      "id": "tt33297599",
       "type": "movie",
-      "name": "Неверный и похотливая",
-      "poster": "https://image.tmdb.org/t/p/w500/qX2X90bRI3pZncBfxwdd2tmeTuQ.jpg",
+      "name": "Финальный эпизод",
+      "poster": "https://image.tmdb.org/t/p/w500/wmEZTHwawJI8rooLutSBeK8nbvE.jpg",
       "posterShape": "poster",
       "releaseInfo": "2026",
-      "description": "Listed on Filmix. Website listing checked 2026-10-17. Original title: Infiel y cachonda. Playback availability is checked when you select a source.",
+      "description": "Listed on Filmix. Website listing checked 2026-10-26. Original title: The Final Episode. Playback availability is checked when you select a source.",
       "links": [
         {
           "name": "Filmix",
           "category": "website",
-          "url": "https://filmix.fm/film/komedia/187503-nevernyy-i-pohotlivaya-2026.html"
+          "url": "https://filmix.fm/film/uzhasu/187668-finalnyy-epizod-2026.html"
         }
       ]
     },
     {
-      "id": "tt46659729",
+      "id": "tt37990944",
       "type": "movie",
-      "name": "Клоунская паника",
-      "poster": "https://image.tmdb.org/t/p/w500/pZ15WSO7UzzJ297SLBMvxHNQDC1.jpg",
+      "name": "Финальная трансляция",
+      "poster": "https://image.tmdb.org/t/p/w500/ecbW1epnLqY7lgzk1hVQdfN7wT4.jpg",
       "posterShape": "poster",
       "releaseInfo": "2026",
-      "description": "Listed on Filmix. Website listing checked 2026-10-17. Original title: Clown Panic. Playback availability is checked when you select a source.",
+      "description": "Listed on Filmix. Website listing checked 2026-10-26. Original title: Final Broadcast. Playback availability is checked when you select a source.",
       "links": [
         {
           "name": "Filmix",
           "category": "website",
-          "url": "https://filmix.fm/film/dokumentalenyj/187505-klounskaya-panika-2026.html"
+          "url": "https://filmix.fm/film/komedia/187656-finalnaya-translyaciya-2026.html"
         }
       ]
     },
     {
-      "id": "tt9174288",
+      "id": "tt33798390",
       "type": "movie",
-      "name": "Давай заведем детей!",
-      "poster": "https://image.tmdb.org/t/p/w500/ciHBHFWAUn9tXNpm5NfDOkcgcMx.jpg",
+      "name": "Страйк любой ценой",
+      "poster": "https://image.tmdb.org/t/p/w500/amt2P93CObnkOvHiL3e2GbRDdnP.jpg",
       "posterShape": "poster",
       "releaseInfo": "2026",
-      "description": "Listed on Filmix. Website listing checked 2026-10-17. Original title: Let’s Have Kids!. Playback availability is checked when you select a source.",
+      "description": "Listed on Filmix. Website listing checked 2026-10-26. Original title: Die Abräumer. Playback availability is checked when you select a source.",
       "links": [
         {
           "name": "Filmix",
           "category": "website",
-          "url": "https://filmix.fm/film/komedia/187508-davay-zavedem-detey-2026.html"
+          "url": "https://filmix.fm/film/komedia/187655-strayk-lyuboy-cenoy-2026.html"
         }
       ]
     },
     {
-      "id": "tt28535715",
+      "id": "tt36482679",
       "type": "movie",
-      "name": "Кит: Во тьме глубин",
-      "poster": "https://image.tmdb.org/t/p/w500/vjTYUTgh9nO88i6HZ4YPRhiFL05.jpg",
+      "name": "Единственный карманник в Нью-Йорке",
+      "poster": "https://image.tmdb.org/t/p/w500/pNdB9va2AEPQe9UfhKAdIt8nus9.jpg",
       "posterShape": "poster",
       "releaseInfo": "2026",
-      "description": "Listed on Filmix. Website listing checked 2026-10-17. Original title: Whalefall. Playback availability is checked when you select a source.",
+      "description": "Listed on Filmix. Website listing checked 2026-10-26. Original title: The Only Living Pickpocket in New York. Playback availability is checked when you select a source.",
       "links": [
         {
           "name": "Filmix",
           "category": "website",
-          "url": "https://filmix.fm/film/drama/187509-kit-vo-tme-glubin-2026.html"
+          "url": "https://filmix.fm/film/drama/187653-edinstvennyy-karmannik-v-nyu-yorke-2026.html"
         }
       ]
     },
     {
-      "id": "tt27419420",
+      "id": "tt29703555",
       "type": "movie",
-      "name": "Уличный боец",
-      "poster": "https://image.tmdb.org/t/p/w500/dJPT2Uf12X6aFg8i5N67NTpIZ9t.jpg",
+      "name": "Хэллоувоин",
+      "poster": "https://image.tmdb.org/t/p/w500/kwbCAGU3yV06GLq9FZd6MVltWGo.jpg",
       "posterShape": "poster",
       "releaseInfo": "2026",
-      "description": "Listed on Filmix. Website listing checked 2026-10-17. Original title: Street Fighter. Playback availability is checked when you select a source.",
+      "description": "Listed on Filmix. Website listing checked 2026-10-26. Original title: Hallowarrior. Playback availability is checked when you select a source.",
       "links": [
         {
           "name": "Filmix",
           "category": "website",
-          "url": "https://filmix.fm/film/boevik/187468-ulichnyy-boec-2026.html"
+          "url": "https://filmix.fm/film/triller/187514-hellouvoin-2026.html"
+        }
+      ]
+    },
+    {
+      "id": "tt11995650",
+      "type": "movie",
+      "name": "Рокки — это я",
+      "poster": "https://image.tmdb.org/t/p/w500/xE5tY3lppZUyG7WKKThsuYHuAHr.jpg",
+      "posterShape": "poster",
+      "releaseInfo": "2026",
+      "description": "Listed on Filmix. Website listing checked 2026-10-26. Original title: I Play Rocky. Playback availability is checked when you select a source.",
+      "links": [
+        {
+          "name": "Filmix",
+          "category": "website",
+          "url": "https://filmix.fm/film/drama/187636-rokki-eto-ya-2026.html"
+        }
+      ]
+    },
+    {
+      "id": "tt32338669",
+      "type": "movie",
+      "name": "Мятеж",
+      "poster": "https://image.tmdb.org/t/p/w500/iYhvs0hLGtZZt6qDrUnuM0E1zGM.jpg",
+      "posterShape": "poster",
+      "releaseInfo": "2026",
+      "description": "Listed on Filmix. Website listing checked 2026-10-26. Original title: Mutiny. Playback availability is checked when you select a source.",
+      "links": [
+        {
+          "name": "Filmix",
+          "category": "website",
+          "url": "https://filmix.fm/film/triller/186401-myatezh-2026.html"
+        }
+      ]
+    },
+    {
+      "id": "tt26625693",
+      "type": "movie",
+      "name": "Безмолвное братство",
+      "poster": "https://image.tmdb.org/t/p/w500/r3BPhDb45sy87kNV41Q1TwCL6BS.jpg",
+      "posterShape": "poster",
+      "releaseInfo": "2024",
+      "description": "Listed on Filmix. Website listing checked 2026-10-26. Original title: The Order. Playback availability is checked when you select a source.",
+      "links": [
+        {
+          "name": "Filmix",
+          "category": "website",
+          "url": "https://filmix.fm/film/drama/174815-bezmolvnoe-bratstvo-2024.html"
+        }
+      ]
+    },
+    {
+      "id": "tt0105417",
+      "type": "movie",
+      "name": "Сестричка, действуй",
+      "poster": "https://image.tmdb.org/t/p/w500/nn0XTBqZf8Q3iXPApE9OQevrYZY.jpg",
+      "posterShape": "poster",
+      "releaseInfo": "1992",
+      "description": "Listed on Filmix. Website listing checked 2026-10-26. Original title: Sister Act. Playback availability is checked when you select a source.",
+      "links": [
+        {
+          "name": "Filmix",
+          "category": "website",
+          "url": "https://filmix.fm/film/kriminaly/11515-h3535h-sestrichka-deystvuy-1992.html"
         }
       ]
     }
