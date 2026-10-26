@@ -1,34 +1,162 @@
 {
   "metas": [
     {
-      "id": "tt23148340",
+      "id": "tt27458866",
       "type": "series",
-      "name": "Хрустальное озеро",
-      "poster": "https://image.tmdb.org/t/p/w500/sIj9WcA1LkcjGbYjrbfV3pGegbF.jpg",
+      "name": "Высокогорье",
+      "poster": "https://image.tmdb.org/t/p/w500/xqI8hbmFky9nneSmYWd0z41ZA9e.jpg",
       "posterShape": "poster",
-      "releaseInfo": "2026",
-      "description": "Listed on Filmix. Website listing checked 2026-10-17. Original title: Crystal Lake. Playback availability is checked when you select a source.",
+      "releaseInfo": "2024",
+      "description": "Listed on Filmix. Website listing checked 2026-10-26. Original title: High Country. Playback availability is checked when you select a source.",
       "links": [
         {
           "name": "Filmix",
           "category": "website",
-          "url": "https://filmix.fm/seria/drama/187480-hrustalnoe-ozero-2026.html"
+          "url": "https://filmix.fm/seria/drama/171213-vysokogore-come-2024.html"
         }
       ]
     },
     {
-      "id": "tt5875444",
+      "id": "tt33359676",
       "type": "series",
-      "name": "Медленные лошади",
-      "poster": "https://image.tmdb.org/t/p/w500/dnpatlJrEPiDSn5fzgzvxtiSnMo.jpg",
+      "name": "Мегрэ",
+      "poster": "https://image.tmdb.org/t/p/w500/j4Ns1AoYHkMJfFhH0wqYnipu3uI.jpg",
       "posterShape": "poster",
-      "releaseInfo": "2022",
-      "description": "Listed on Filmix. Website listing checked 2026-10-17. Original title: Slow Horses. Playback availability is checked when you select a source.",
+      "releaseInfo": "2025",
+      "description": "Listed on Filmix. Website listing checked 2026-10-26. Original title: Maigret. Playback availability is checked when you select a source.",
       "links": [
         {
           "name": "Filmix",
           "category": "website",
-          "url": "https://filmix.fm/seria/drama/158135-medlenue-lochadi-2022.html"
+          "url": "https://filmix.fm/seria/drama/180361-megre-2025.html"
+        }
+      ]
+    },
+    {
+      "id": "tt35949226",
+      "type": "series",
+      "name": "Молодость",
+      "poster": "https://image.tmdb.org/t/p/w500/bk1zbzbu0xaYQuIANv4Pe8HHyAY.jpg",
+      "posterShape": "poster",
+      "releaseInfo": "2026",
+      "description": "Listed on Filmix. Website listing checked 2026-10-26. Original title: Youth. Playback availability is checked when you select a source.",
+      "links": [
+        {
+          "name": "Filmix",
+          "category": "website",
+          "url": "https://filmix.fm/seria/komedia/187008-molodost-2026.html"
+        }
+      ]
+    },
+    {
+      "id": "tt36849871",
+      "type": "series",
+      "name": "Йеллоустоун: Маршалы",
+      "poster": "https://image.tmdb.org/t/p/w500/nInfaveN1iFpRIcMGNKENoVVUT2.jpg",
+      "posterShape": "poster",
+      "releaseInfo": "2026",
+      "description": "Listed on Filmix. Website listing checked 2026-10-26. Original title: Marshals. Playback availability is checked when you select a source.",
+      "links": [
+        {
+          "name": "Filmix",
+          "category": "website",
+          "url": "https://filmix.fm/seria/drama/183172-yelloustoun-marshaly-2026.html"
+        }
+      ]
+    },
+    {
+      "id": "tt13875494",
+      "type": "series",
+      "name": "Следопыт",
+      "poster": "https://image.tmdb.org/t/p/w500/wwTEIudim2QR2LnYyUTVTKxD4Mn.jpg",
+      "posterShape": "poster",
+      "releaseInfo": "2024",
+      "description": "Listed on Filmix. Website listing checked 2026-10-26. Original title: Tracker. Playback availability is checked when you select a source.",
+      "links": [
+        {
+          "name": "Filmix",
+          "category": "website",
+          "url": "https://filmix.fm/seria/drama/170664-slledoput-2024.html"
+        }
+      ]
+    },
+    {
+      "id": "tt40385667",
+      "type": "series",
+      "name": "Остров сокровищ",
+      "poster": "https://image.tmdb.org/t/p/w500/xZQ5ABJF1iLjGq9xR4MthpgQEFF.jpg",
+      "posterShape": "poster",
+      "releaseInfo": "2026",
+      "description": "Listed on Filmix. Website listing checked 2026-10-26. Original title: Treasure Island. Playback availability is checked when you select a source.",
+      "links": [
+        {
+          "name": "Filmix",
+          "category": "website",
+          "url": "https://filmix.fm/seria/drama/187405-ostrov-sokrovisch-2026.html"
+        }
+      ]
+    },
+    {
+      "id": "tt21376524",
+      "type": "series",
+      "name": "Контроль за животными",
+      "poster": "https://image.tmdb.org/t/p/w500/h2dXm0CXMkycA9LrZbXMUD8SuTL.jpg",
+      "posterShape": "poster",
+      "releaseInfo": "2023",
+      "description": "Listed on Filmix. Website listing checked 2026-10-26. Original title: Animal Control. Playback availability is checked when you select a source.",
+      "links": [
+        {
+          "name": "Filmix",
+          "category": "website",
+          "url": "https://filmix.fm/seria/komedia/164188-kontrol-za-zhivotnymi-2023.html"
+        }
+      ]
+    },
+    {
+      "id": "tt39469996",
+      "type": "series",
+      "name": "Молодожены",
+      "poster": "https://image.tmdb.org/t/p/w500/8yMuMKrSQjkFkRgIpaWGFJl8fJO.jpg",
+      "posterShape": "poster",
+      "releaseInfo": "2026",
+      "description": "Listed on Filmix. Website listing checked 2026-10-26. Original title: Newlyweds. Playback availability is checked when you select a source.",
+      "links": [
+        {
+          "name": "Filmix",
+          "category": "website",
+          "url": "https://filmix.fm/seria/komedia/187638-molodozheny-2026.html"
+        }
+      ]
+    },
+    {
+      "id": "tt23469464",
+      "type": "series",
+      "name": "Самые обычные мужики",
+      "poster": "https://image.tmdb.org/t/p/w500/i2TomZ3p2UoHnTRslxDebRu0blL.jpg",
+      "posterShape": "poster",
+      "releaseInfo": "2024",
+      "description": "Listed on Filmix. Website listing checked 2026-10-26. Original title: Universal Basic Guys. Playback availability is checked when you select a source.",
+      "links": [
+        {
+          "name": "Filmix",
+          "category": "website",
+          "url": "https://filmix.fm/multser/komedia/173610-bezuslovnye-bazovye-parni-2024.html"
+        }
+      ]
+    },
+    {
+      "id": "tt0096697",
+      "type": "series",
+      "name": "Симпсоны",
+      "poster": "https://image.tmdb.org/t/p/w500/tf0CUEynk6GfmrlHIQKQ5mfFP5P.jpg",
+      "posterShape": "poster",
+      "releaseInfo": "1989",
+      "description": "Listed on Filmix. Website listing checked 2026-10-26. Original title: The Simpsons. Playback availability is checked when you select a source.",
+      "links": [
+        {
+          "name": "Filmix",
+          "category": "website",
+          "url": "https://filmix.fm/multser/komedia/9184-simpsonyi-1989.html"
         }
       ]
     },
@@ -39,7 +167,7 @@
       "poster": "https://image.tmdb.org/t/p/w500/c6MRUtPk0nEPQ9FBD9RdRKt2rIm.jpg",
       "posterShape": "poster",
       "releaseInfo": "2024",
-      "description": "Listed on Filmix. Website listing checked 2026-10-17. Original title: Dark Matter. Playback availability is checked when you select a source.",
+      "description": "Listed on Filmix. Website listing checked 2026-10-26. Original title: Dark Matter. Playback availability is checked when you select a source.",
       "links": [
         {
           "name": "Filmix",
@@ -49,114 +177,66 @@
       ]
     },
     {
-      "id": "tt23112594",
+      "id": "tt12590266",
       "type": "series",
-      "name": "Квест Вижна",
-      "poster": "https://image.tmdb.org/t/p/w500/WGyAyBPncfuu8MZhLY9RtfZPM0.jpg",
+      "name": "Киберпанк: Бегущие по краю",
+      "poster": "https://image.tmdb.org/t/p/w500/7jSWOc6jWSw5hZ78HB8Hw3pJxuk.jpg",
       "posterShape": "poster",
-      "releaseInfo": "2026",
-      "description": "Listed on Filmix. Website listing checked 2026-10-17. Original title: VisionQuest. Playback availability is checked when you select a source.",
+      "releaseInfo": "2022",
+      "description": "Listed on Filmix. Website listing checked 2026-10-26. Original title: Cyberpunk: Edgerunners. Playback availability is checked when you select a source.",
       "links": [
         {
           "name": "Filmix",
           "category": "website",
-          "url": "https://filmix.fm/seria/drama/187446-kvest-vizhna-2026.html"
+          "url": "https://filmix.fm/multser/animes/161030-kiberpank-beguschie-po-krayu-foccus-2022.html"
         }
       ]
     },
     {
-      "id": "tt13138834",
+      "id": "tt31510819",
       "type": "series",
-      "name": "Время",
-      "poster": "https://image.tmdb.org/t/p/w500/mhi7oohUBIufTjF9u41uMXYHsw2.jpg",
+      "name": "Гангстерленд",
+      "poster": "https://image.tmdb.org/t/p/w500/fTlH5NNTXOP96mElp0DaIStRVvK.jpg",
       "posterShape": "poster",
-      "releaseInfo": "2021",
-      "description": "Listed on Filmix. Website listing checked 2026-10-17. Original title: Time. Playback availability is checked when you select a source.",
+      "releaseInfo": "2025",
+      "description": "Listed on Filmix. Website listing checked 2026-10-26. Original title: MobLand. Playback availability is checked when you select a source.",
       "links": [
         {
           "name": "Filmix",
           "category": "website",
-          "url": "https://filmix.fm/seria/drama/151847-vremya-2021.html"
+          "url": "https://filmix.fm/seria/drama/176734-gangsterllend-2025.html"
         }
       ]
     },
     {
-      "id": "tt35934755",
+      "id": "tt16358384",
       "type": "series",
-      "name": "Глубина",
-      "poster": "https://image.tmdb.org/t/p/w500/vgLqqhMUbljp585qPp1EFCyJtcz.jpg",
+      "name": "Король Талсы",
+      "poster": "https://image.tmdb.org/t/p/w500/7pPmaSMKk1VVQH0oS7tceROYcZa.jpg",
       "posterShape": "poster",
-      "releaseInfo": "2026",
-      "description": "Listed on Filmix. Website listing checked 2026-10-17. Original title: Below. Playback availability is checked when you select a source.",
+      "releaseInfo": "2022",
+      "description": "Listed on Filmix. Website listing checked 2026-10-26. Original title: Tulsa King. Playback availability is checked when you select a source.",
       "links": [
         {
           "name": "Filmix",
           "category": "website",
-          "url": "https://filmix.fm/seria/drama/187365-glubina-2026.html"
+          "url": "https://filmix.fm/seria/drama/162271-coroll-talsui-2022.html"
         }
       ]
     },
     {
-      "id": "tt15571732",
+      "id": "tt1844624",
       "type": "series",
-      "name": "Это всё Агата",
-      "poster": "https://image.tmdb.org/t/p/w500/mGsxKwXUjojitRv2E9qMTbxbBRd.jpg",
-      "posterShape": "poster",
-      "releaseInfo": "2024",
-      "description": "Listed on Filmix. Website listing checked 2026-10-17. Original title: Agatha All Along. Playback availability is checked when you select a source.",
-      "links": [
-        {
-          "name": "Filmix",
-          "category": "website",
-          "url": "https://filmix.fm/seria/drama/173688-eto-vvse-agatta-2024.html"
-        }
-      ]
-    },
-    {
-      "id": "tt6773088",
-      "type": "series",
-      "name": "Братья",
-      "poster": "https://image.tmdb.org/t/p/w500/jD7ZQpDEZzAVReJzkOtmuFoIl2m.jpg",
-      "posterShape": "poster",
-      "releaseInfo": "2026",
-      "description": "Listed on Filmix. Website listing checked 2026-10-17. Original title: Brothers. Playback availability is checked when you select a source.",
-      "links": [
-        {
-          "name": "Filmix",
-          "category": "website",
-          "url": "https://filmix.fm/seria/komedia/187061-bratya-2026.html"
-        }
-      ]
-    },
-    {
-      "id": "tt1877005",
-      "type": "series",
-      "name": "Самогонщики",
-      "poster": "https://image.tmdb.org/t/p/w500/brgOpuQs3nhqRKQWomMv0jpHqxM.jpg",
+      "name": "Американская история ужасов",
+      "poster": "https://image.tmdb.org/t/p/w500/s8Nbz8ok2v3Uw5sRwSC6eWJLX25.jpg",
       "posterShape": "poster",
       "releaseInfo": "2011",
-      "description": "Listed on Filmix. Website listing checked 2026-10-17. Original title: Moonshiners. Playback availability is checked when you select a source.",
+      "description": "Listed on Filmix. Website listing checked 2026-10-26. Original title: American Horror Story. Playback availability is checked when you select a source.",
       "links": [
         {
           "name": "Filmix",
           "category": "website",
-          "url": "https://filmix.fm/seria/dokumentalenyj/67493-samogonschiki-exltlra-2012.html"
-        }
-      ]
-    },
-    {
-      "id": "tt11540908",
-      "type": "series",
-      "name": "Кэрри",
-      "poster": "https://image.tmdb.org/t/p/w500/eXjk4W4robXs7l1YXwaXMv4f2qb.jpg",
-      "posterShape": "poster",
-      "releaseInfo": "2026",
-      "description": "Listed on Filmix. Website listing checked 2026-10-17. Original title: Carrie. Playback availability is checked when you select a source.",
-      "links": [
-        {
-          "name": "Filmix",
-          "category": "website",
-          "url": "https://filmix.fm/seria/drama/187341-kerri-2026.html"
+          "url": "https://filmix.fm/seria/drama/112928-amerikanskaya-historiya-uzasov-ac-2018.html"
         }
       ]
     }

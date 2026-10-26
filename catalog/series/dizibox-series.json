@@ -1,13 +1,45 @@
 {
   "metas": [
     {
+      "id": "tt23112594",
+      "type": "series",
+      "name": "VisionQuest",
+      "poster": "https://image.tmdb.org/t/p/w500/xK27l5uwaVyZSlENWnmLlWwDQNS.jpg",
+      "posterShape": "poster",
+      "releaseInfo": "2026",
+      "description": "Listed on DiziBOX. Website listing checked 2026-10-26. Playback availability is checked when you select a source.",
+      "links": [
+        {
+          "name": "DiziBOX",
+          "category": "website",
+          "url": "https://www.dizibox.live/diziler/visionquest/"
+        }
+      ]
+    },
+    {
+      "id": "tt38990181",
+      "type": "series",
+      "name": "Dustfall",
+      "poster": "https://image.tmdb.org/t/p/w500/dZNBYsSOoXmXI36Cz9Ram6Qy2AJ.jpg",
+      "posterShape": "poster",
+      "releaseInfo": "2026",
+      "description": "Listed on DiziBOX. Website listing checked 2026-10-26. Playback availability is checked when you select a source.",
+      "links": [
+        {
+          "name": "DiziBOX",
+          "category": "website",
+          "url": "https://www.dizibox.live/diziler/dustfall/"
+        }
+      ]
+    },
+    {
       "id": "tt11540908",
       "type": "series",
       "name": "Carrie",
       "poster": "https://image.tmdb.org/t/p/w500/eXjk4W4robXs7l1YXwaXMv4f2qb.jpg",
       "posterShape": "poster",
       "releaseInfo": "2026",
-      "description": "Listed on DiziBOX. Website listing checked 2026-10-17. Playback availability is checked when you select a source.",
+      "description": "Listed on DiziBOX. Website listing checked 2026-10-26. Playback availability is checked when you select a source.",
       "links": [
         {
           "name": "DiziBOX",
@@ -23,7 +55,7 @@
       "poster": "https://image.tmdb.org/t/p/w500/u62d0BPqsdv2TUDifcMmoePbHPL.jpg",
       "posterShape": "poster",
       "releaseInfo": "2026",
-      "description": "Listed on DiziBOX. Website listing checked 2026-10-17. Playback availability is checked when you select a source.",
+      "description": "Listed on DiziBOX. Website listing checked 2026-10-26. Playback availability is checked when you select a source.",
       "links": [
         {
           "name": "DiziBOX",
@@ -39,44 +71,12 @@
       "poster": "https://image.tmdb.org/t/p/w500/axdUor6gLMTrrB1UF4Qfy0TTSyX.jpg",
       "posterShape": "poster",
       "releaseInfo": "2026",
-      "description": "Listed on DiziBOX. Website listing checked 2026-10-17. Playback availability is checked when you select a source.",
+      "description": "Listed on DiziBOX. Website listing checked 2026-10-26. Playback availability is checked when you select a source.",
       "links": [
         {
           "name": "DiziBOX",
           "category": "website",
           "url": "https://www.dizibox.live/diziler/east-of-eden/"
-        }
-      ]
-    },
-    {
-      "id": "tt33539520",
-      "type": "series",
-      "name": "Neagley",
-      "poster": "https://image.tmdb.org/t/p/w500/lKOPmO0ah17ogQ9hWg7lSd40kIr.jpg",
-      "posterShape": "poster",
-      "releaseInfo": "2026",
-      "description": "Listed on DiziBOX. Website listing checked 2026-10-17. Playback availability is checked when you select a source.",
-      "links": [
-        {
-          "name": "DiziBOX",
-          "category": "website",
-          "url": "https://www.dizibox.live/diziler/neagley/"
-        }
-      ]
-    },
-    {
-      "id": "tt43736405",
-      "type": "series",
-      "name": "A Love Other Than Yours",
-      "poster": "https://image.tmdb.org/t/p/w500/iKgdhgBPi1cCRRqsUgaxUDRuFP6.jpg",
-      "posterShape": "poster",
-      "releaseInfo": "2026",
-      "description": "Listed on DiziBOX. Website listing checked 2026-10-17. Playback availability is checked when you select a source.",
-      "links": [
-        {
-          "name": "DiziBOX",
-          "category": "website",
-          "url": "https://www.dizibox.live/diziler/a-love-other-than-yours/"
         }
       ]
     },
@@ -87,7 +87,7 @@
       "poster": "https://image.tmdb.org/t/p/w500/f496cm9enuEsZkSPzCwnTESEK5s.jpg",
       "posterShape": "poster",
       "releaseInfo": "1994",
-      "description": "Listed on DiziBOX. Website listing checked 2026-10-17. Playback availability is checked when you select a source.",
+      "description": "Listed on DiziBOX. Website listing checked 2026-10-26. Playback availability is checked when you select a source.",
       "links": [
         {
           "name": "DiziBOX",
@@ -103,7 +103,7 @@
       "poster": "https://image.tmdb.org/t/p/w500/oftZNfyTVNU7IfOqoGLoT8MGvNs.jpg",
       "posterShape": "poster",
       "releaseInfo": "2014",
-      "description": "Listed on DiziBOX. Website listing checked 2026-10-17. Playback availability is checked when you select a source.",
+      "description": "Listed on DiziBOX. Website listing checked 2026-10-26. Playback availability is checked when you select a source.",
       "links": [
         {
           "name": "DiziBOX",
@@ -119,7 +119,7 @@
       "poster": "https://image.tmdb.org/t/p/w500/chnG4pYo89weaBjXHJWvW68E35B.jpg",
       "posterShape": "poster",
       "releaseInfo": "2006",
-      "description": "Listed on DiziBOX. Website listing checked 2026-10-17. Playback availability is checked when you select a source.",
+      "description": "Listed on DiziBOX. Website listing checked 2026-10-26. Playback availability is checked when you select a source.",
       "links": [
         {
           "name": "DiziBOX",
@@ -135,7 +135,7 @@
       "poster": "https://image.tmdb.org/t/p/w500/e0e5HUV07jzw43MxiFmPaQlkTeI.jpg",
       "posterShape": "poster",
       "releaseInfo": "1989",
-      "description": "Listed on DiziBOX. Website listing checked 2026-10-17. Playback availability is checked when you select a source.",
+      "description": "Listed on DiziBOX. Website listing checked 2026-10-26. Playback availability is checked when you select a source.",
       "links": [
         {
           "name": "DiziBOX",
@@ -151,7 +151,7 @@
       "poster": "https://image.tmdb.org/t/p/w500/tjFYkWMafg71sihs1aa7IDx17aS.jpg",
       "posterShape": "poster",
       "releaseInfo": "2013",
-      "description": "Listed on DiziBOX. Website listing checked 2026-10-17. Playback availability is checked when you select a source.",
+      "description": "Listed on DiziBOX. Website listing checked 2026-10-26. Playback availability is checked when you select a source.",
       "links": [
         {
           "name": "DiziBOX",
@@ -167,7 +167,7 @@
       "poster": "https://image.tmdb.org/t/p/w500/8eR5Jg7CxsuCOEBU5wW0opObxpi.jpg",
       "posterShape": "poster",
       "releaseInfo": "2008",
-      "description": "Listed on DiziBOX. Website listing checked 2026-10-17. Playback availability is checked when you select a source.",
+      "description": "Listed on DiziBOX. Website listing checked 2026-10-26. Playback availability is checked when you select a source.",
       "links": [
         {
           "name": "DiziBOX",
@@ -183,7 +183,7 @@
       "poster": "https://image.tmdb.org/t/p/w500/2xpQxwsGYtdGDrmLvCosTZ0I54R.jpg",
       "posterShape": "poster",
       "releaseInfo": "2009",
-      "description": "Listed on DiziBOX. Website listing checked 2026-10-17. Playback availability is checked when you select a source.",
+      "description": "Listed on DiziBOX. Website listing checked 2026-10-26. Playback availability is checked when you select a source.",
       "links": [
         {
           "name": "DiziBOX",
@@ -199,7 +199,7 @@
       "poster": "https://image.tmdb.org/t/p/w500/hlLXt2tOPT6RRnjiUmoxyG1LTFi.jpg",
       "posterShape": "poster",
       "releaseInfo": "2019",
-      "description": "Listed on DiziBOX. Website listing checked 2026-10-17. Playback availability is checked when you select a source.",
+      "description": "Listed on DiziBOX. Website listing checked 2026-10-26. Playback availability is checked when you select a source.",
       "links": [
         {
           "name": "DiziBOX",
@@ -215,7 +215,7 @@
       "poster": "https://image.tmdb.org/t/p/w500/iq6yrZ5LEDXf1ArCOYLq8PIUBpV.jpg",
       "posterShape": "poster",
       "releaseInfo": "2001",
-      "description": "Listed on DiziBOX. Website listing checked 2026-10-17. Playback availability is checked when you select a source.",
+      "description": "Listed on DiziBOX. Website listing checked 2026-10-26. Playback availability is checked when you select a source.",
       "links": [
         {
           "name": "DiziBOX",
@@ -231,7 +231,7 @@
       "poster": "https://image.tmdb.org/t/p/w500/f8aIvYk5h7Z8EP3dinCmVgQFYow.jpg",
       "posterShape": "poster",
       "releaseInfo": "2011",
-      "description": "Listed on DiziBOX. Website listing checked 2026-10-17. Playback availability is checked when you select a source.",
+      "description": "Listed on DiziBOX. Website listing checked 2026-10-26. Playback availability is checked when you select a source.",
       "links": [
         {
           "name": "DiziBOX",
@@ -247,7 +247,7 @@
       "poster": "https://image.tmdb.org/t/p/w500/1QdXdRYfktUSONkl1oD5gc6Be0s.jpg",
       "posterShape": "poster",
       "releaseInfo": "2021",
-      "description": "Listed on DiziBOX. Website listing checked 2026-10-17. Playback availability is checked when you select a source.",
+      "description": "Listed on DiziBOX. Website listing checked 2026-10-26. Playback availability is checked when you select a source.",
       "links": [
         {
           "name": "DiziBOX",
@@ -263,7 +263,7 @@
       "poster": "https://image.tmdb.org/t/p/w500/lFf6LLrQjYldcZItzOkGmMMigP7.jpg",
       "posterShape": "poster",
       "releaseInfo": "2022",
-      "description": "Listed on DiziBOX. Website listing checked 2026-10-17. Playback availability is checked when you select a source.",
+      "description": "Listed on DiziBOX. Website listing checked 2026-10-26. Playback availability is checked when you select a source.",
       "links": [
         {
           "name": "DiziBOX",
@@ -279,7 +279,7 @@
       "poster": "https://image.tmdb.org/t/p/w500/tf6gkXJR5DyQI62tMetqZx4OwI2.jpg",
       "posterShape": "poster",
       "releaseInfo": "2022",
-      "description": "Listed on DiziBOX. Website listing checked 2026-10-17. Playback availability is checked when you select a source.",
+      "description": "Listed on DiziBOX. Website listing checked 2026-10-26. Playback availability is checked when you select a source.",
       "links": [
         {
           "name": "DiziBOX",
@@ -295,7 +295,7 @@
       "poster": "https://image.tmdb.org/t/p/w500/3sTASMery7m9C3FPB83X6cvJrbW.jpg",
       "posterShape": "poster",
       "releaseInfo": "2024",
-      "description": "Listed on DiziBOX. Website listing checked 2026-10-17. Playback availability is checked when you select a source.",
+      "description": "Listed on DiziBOX. Website listing checked 2026-10-26. Playback availability is checked when you select a source.",
       "links": [
         {
           "name": "DiziBOX",
@@ -311,7 +311,7 @@
       "poster": "https://image.tmdb.org/t/p/w500/lxVS24ZhG3WQf3IMbkFIg6olT6A.jpg",
       "posterShape": "poster",
       "releaseInfo": "2021",
-      "description": "Listed on DiziBOX. Website listing checked 2026-10-17. Playback availability is checked when you select a source.",
+      "description": "Listed on DiziBOX. Website listing checked 2026-10-26. Playback availability is checked when you select a source.",
       "links": [
         {
           "name": "DiziBOX",
@@ -327,7 +327,7 @@
       "poster": "https://image.tmdb.org/t/p/w500/bAF3gTGuFNDdzGUIAnDqi5nbFf3.jpg",
       "posterShape": "poster",
       "releaseInfo": "2024",
-      "description": "Listed on DiziBOX. Website listing checked 2026-10-17. Playback availability is checked when you select a source.",
+      "description": "Listed on DiziBOX. Website listing checked 2026-10-26. Playback availability is checked when you select a source.",
       "links": [
         {
           "name": "DiziBOX",
@@ -343,7 +343,7 @@
       "poster": "https://image.tmdb.org/t/p/w500/21ICs3fxlxGslbzS4moCHk9HNo6.jpg",
       "posterShape": "poster",
       "releaseInfo": "2024",
-      "description": "Listed on DiziBOX. Website listing checked 2026-10-17. Playback availability is checked when you select a source.",
+      "description": "Listed on DiziBOX. Website listing checked 2026-10-26. Playback availability is checked when you select a source.",
       "links": [
         {
           "name": "DiziBOX",
@@ -359,7 +359,7 @@
       "poster": "https://image.tmdb.org/t/p/w500/tw3tzfXaSpmUZIB8ZNqNEGzMBCy.jpg",
       "posterShape": "poster",
       "releaseInfo": "2024",
-      "description": "Listed on DiziBOX. Website listing checked 2026-10-17. Playback availability is checked when you select a source.",
+      "description": "Listed on DiziBOX. Website listing checked 2026-10-26. Playback availability is checked when you select a source.",
       "links": [
         {
           "name": "DiziBOX",
@@ -375,7 +375,7 @@
       "poster": "https://image.tmdb.org/t/p/w500/fqWdhp7PD8jyZdEszuoUg6mTIPQ.jpg",
       "posterShape": "poster",
       "releaseInfo": "2021",
-      "description": "Listed on DiziBOX. Website listing checked 2026-10-17. Playback availability is checked when you select a source.",
+      "description": "Listed on DiziBOX. Website listing checked 2026-10-26. Playback availability is checked when you select a source.",
       "links": [
         {
           "name": "DiziBOX",
@@ -391,7 +391,7 @@
       "poster": "https://image.tmdb.org/t/p/w500/rpSo8z9alultGVTqQ3dkLEyU8xx.jpg",
       "posterShape": "poster",
       "releaseInfo": "2024",
-      "description": "Listed on DiziBOX. Website listing checked 2026-10-17. Playback availability is checked when you select a source.",
+      "description": "Listed on DiziBOX. Website listing checked 2026-10-26. Playback availability is checked when you select a source.",
       "links": [
         {
           "name": "DiziBOX",
@@ -407,7 +407,7 @@
       "poster": "https://image.tmdb.org/t/p/w500/mLEBTTD3D3hjhpKMIzSjNi7nNGM.jpg",
       "posterShape": "poster",
       "releaseInfo": "2023",
-      "description": "Listed on DiziBOX. Website listing checked 2026-10-17. Playback availability is checked when you select a source.",
+      "description": "Listed on DiziBOX. Website listing checked 2026-10-26. Playback availability is checked when you select a source.",
       "links": [
         {
           "name": "DiziBOX",
@@ -423,7 +423,7 @@
       "poster": "https://image.tmdb.org/t/p/w500/1Y6Z2thiw44Lab7yoXZ7y3JVIUL.jpg",
       "posterShape": "poster",
       "releaseInfo": "2016",
-      "description": "Listed on DiziBOX. Website listing checked 2026-10-17. Playback availability is checked when you select a source.",
+      "description": "Listed on DiziBOX. Website listing checked 2026-10-26. Playback availability is checked when you select a source.",
       "links": [
         {
           "name": "DiziBOX",
@@ -439,7 +439,7 @@
       "poster": "https://image.tmdb.org/t/p/w500/8WchbT0UPQeo3PZ6G01fhccYaQB.jpg",
       "posterShape": "poster",
       "releaseInfo": "2023",
-      "description": "Listed on DiziBOX. Website listing checked 2026-10-17. Playback availability is checked when you select a source.",
+      "description": "Listed on DiziBOX. Website listing checked 2026-10-26. Playback availability is checked when you select a source.",
       "links": [
         {
           "name": "DiziBOX",
